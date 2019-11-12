@@ -54,16 +54,9 @@ exclude_patterns = []
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
 #
-<<<<<<< HEAD
 import sphinx_theme
 html_theme = "stanford_theme"
 html_theme_path = [sphinx_theme.get_html_theme_path('stanford-theme')]
-=======
-import sphinx_rtd_theme
-html_theme = "sphinx_rtd_theme"
-html_theme_path = [sphinx_rtd_theme.get_html_theme_path()]
-
->>>>>>> 3d80d79ef1782c208ecf2014f61cf73361addadc
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
