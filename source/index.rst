@@ -6,7 +6,7 @@
 ===================
 
 借祖传的古老与根本之意, 机器学习的祖传知识即为以下主题: 
-:doc:`微分<calculus/intro>` |
+:doc:`微分<calculus/index>` |
 :doc:`最优化<optimization/index>` |
 :doc:`线性代数<linear_algebra/index>` |
 :doc:`概率论<probability/index>` |
@@ -26,14 +26,16 @@
 怎么学习祖传知识
 ==================
 
-每个主题分为了更小的独立章节以便学习.除了文字外,视频也在紧张制作中.另外每一章下面有留言板,供大家交流讨论.
+每个主题都由更小更短的独立章节组成,以便高效率的针对性的学习.除了文字外,视频也在紧张制作中.另外每一章下面有留言板,供大家交流讨论.
 
-另外,reference里所列资源均是干货硬货好东西,都是相对应主题的最受欢迎的学习资料.非常值得看上一眼.
+专业名词都会配上英文词源.很多时候与其硬背翻译来的中文,不如理解英文的含义.比如微积分的原文,calculus,原意为算盘上的算珠子.哈,用这个词来命名对方程变化的研究是不是让人心服口服?相比而言,微积分是什么意思到底.
+
+另外,reference里所列资源都是相对应主题的最受欢迎的学习资料.非常值得看上一眼.
 
 .. toctree::
 
-   Vintage Machine Learning<https://en.vintageml.com>
-   祖传机器学习<https://zh.vintageml.com>
+   ⊰⊰⊰Vintage Machine Learning⊱⊱⊱<https://en.vintageml.com>
+   ⊰⊰⊰ 祖传机器学习 ⊱⊱⊱<https://zh.vintageml.com>
 
 .. toctree::
    :caption: |微积分|
