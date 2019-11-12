@@ -32,16 +32,13 @@ RST常用语法
 
 	.. Note:: blue
 
+	.. seealso:: blue
+
 	.. Attention:: orange
 
 	.. Caution:: orange 
 
 	.. Warning:: orange
-
-	.. seealso:: yellow
-
-	.. seealso:: Wave shapes are implemented in :f:func:`morphevolution/RvR`
-             and :f:func:`morphevolution/vT`.
 
 	.. DANGER:: red
 
@@ -101,5 +98,17 @@ RST常用语法
 		:align: center
 		:width: 400px
 
+替换
+	今天是|today|
+
+	.. |today|
+
+列表
 
 
+Reference
+	<https://sphinx-rtd-theme.readthedocs.io/en/stable/demo/demo.html>
+	
+	<https://github.com/ralsina/rst-cheatsheet/blob/master/rst-cheatsheet.rst>
+	<>
+	<>

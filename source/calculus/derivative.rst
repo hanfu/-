@@ -7,8 +7,6 @@
 极限 Limit
 ==========
 
-.. _derivative:
-
 导数 Derivative
 ===============
 
@@ -16,24 +14,29 @@ Derivative is the change of a funciton to its variable.
 
 derivative = :math:`\frac{df(x)}{dx}` = df(x)/dx, sometimes abbreviated as f'. 
 
-Differentiation
+求导 Differentiation
 ===============
 
-The process to find out derivative is called differentiation.
+计算导数的过程叫做求导. 每种方程都有各自对应的导数公式. 
 
-Properties from Derivative
-==========================
+方程间的不同组合所对应的导数也有规律可循.
 
-mean value theorem
-------------------
 
-extreme value theorem
+导数的性质
+==========
+假设方程f, 给定三个数字从小到大为a,b,c, 则我们可以由导数得到以下性质
+
+
+中值定理 mean value theorem
+---------------------------
+
+极值定理 extreme value theorem
 ---------------------
 
-convacity
+凸性 convacity
 ---------
 
-integral
+积分 integral
 ========
 
 
