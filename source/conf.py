@@ -32,7 +32,12 @@ release = '0.01'
 # ones.
 extensions = [
 'sphinx.ext.mathjax',
+'sphinx.ext.autosectionlabel',
 ]
+
+# autosectionlabel settings
+#https://stackoverflow.com/questions/15394347/adding-a-cross-reference-to-a-subheading-or-anchor-in-another-page
+autosectionlabel_prefix_document = True
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
@@ -65,7 +70,8 @@ html_theme_path = [sphinx_rtd_theme.get_html_theme_path()]
 html_static_path = ['_static']
 
 # https://www.sphinx-doc.org/en/master/usage/configuration.html
-html_title = "全面的基础知识"
+html_title = "机器学习的基础"
+html_show_sphinx = False
 
 
 # for readthedocs web hosting

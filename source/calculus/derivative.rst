@@ -7,9 +7,10 @@
 极限 Limit
 ==========
 
+.. _derivative:
 
-Derivative
-==========
+导数 Derivative
+===============
 
 Derivative is the change of a funciton to its variable. 
 
