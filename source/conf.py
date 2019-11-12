@@ -64,6 +64,9 @@ html_theme_path = [sphinx_rtd_theme.get_html_theme_path()]
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ['_static']
 
+# https://www.sphinx-doc.org/en/master/usage/configuration.html
+html_title = "全面的基础知识"
+
 
 # for readthedocs web hosting
 master_doc = 'index'
