@@ -37,7 +37,7 @@
 
 每个 :class:`Reference` 里所列资源都是相对应主题的最受欢迎的学习资料.非常值得看上一眼.
 
-那么,让我们愉快的开始祖传吧! (`VintageML <en.vintageml.com>`_ 为本书的英文版本)
+那么,让我们愉快的开始祖传吧! ( `VintageML <https://en.vintageml.com>`_ 为本书的英文版本)
 
 .. toctree::
    :hidden:
