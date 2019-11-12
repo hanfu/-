@@ -38,6 +38,11 @@ RST常用语法
 
 	.. Warning:: orange
 
+	.. seealso:: yellow
+
+	.. seealso:: Wave shapes are implemented in :f:func:`morphevolution/RvR`
+             and :f:func:`morphevolution/vT`.
+
 	.. DANGER:: red
 
 	.. Error:: red
@@ -94,3 +99,7 @@ RST常用语法
 		:target: somelink_
 		:alt: alt-image
 		:align: center
+		:width: 400px
+
+
+

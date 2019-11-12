@@ -14,7 +14,7 @@
 
 	TODO: 珠算
 
-	它的变化有多快?回答这些问题的答案正是`导数 <derivative.html#导数 Derivative>`_
+	它的变化有多快?回答这些问题的答案正是 `导数 <derivative.html#导数 Derivative>`_.
 
 :ref:`derivative`
 
@@ -28,7 +28,7 @@
 	最后,我们一起学习多项微分.顾名思义,就是一个方程里面有不止一个变量,仅此而已.我们要做的也很简单:每次只看一个变量.而这是机器学习的另一个大明星,梯度下降的理论基础.
 
 .. toctree::
-	:numbered: 4
+	:numbered:
 
 	derivative
 	differential_equation
