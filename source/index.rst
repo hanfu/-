@@ -6,9 +6,9 @@
 
 借祖传的古老与根本之意, 机器学习的祖传知识即为以下主题: 
 :doc:`微分<calculus/index>` |
-:doc:`最优化<optimization/index>` |
 :doc:`线性代数<linear_algebra/index>` |
 :doc:`概率论<probability/index>` |
+:doc:`最优化<optimization/index>` |
 :doc:`人工智能<artificial_intelligence/index>` |
 :doc:`机器学习<machine_learning/index>`
 
@@ -26,6 +26,10 @@
 
 怎么学习祖传知识
 ================
+
+整个课程都是从最基础的概念讲起, 慢慢引人入胜, 回头不见来时路. 我们不假设你有任何基础, 中学生还是大学生(小学生的话肯定没问题的!!), 你是文科理科还是工科都与能否学下去没有因果关系. 
+
+如果学习时遇到了困难,请务必在留言区留言.你的问题可能也是我的问题, 可能对广大读者都有帮助.如果是概念或者名词的疑惑,直接谷歌相关概念也很有帮助哦! 
 
 每个主题都由更小更短的独立章节组成,以便高效率的针对性的学习.除了文字外,视频也在紧张制作中.另外每一章下面有留言板,供大家交流讨论.
 
@@ -51,38 +55,28 @@
    calculus/index
 
 .. toctree::
-   :caption: |最优化|
-   :titlesonly:
-   :glob:
-
-   optimization/index
-
-.. toctree::
    :caption: |线性代数|
-   :titlesonly:
-   :glob:
 
    linear_algebra/index
    
 .. toctree::
    :caption: |概率论|
-   :titlesonly:
-   :glob:
 
    probability/index
    
 .. toctree::
+   :caption: |最优化|
+   
+   optimization/index
+
+.. toctree::
    :caption: |人工智能|
-   :titlesonly:
-   :glob:
 
    artificial_intelligence/index
    
 .. toctree::
    :caption: |机器学习|
-   :titlesonly:
-   :glob:
-
+   
    machine_learning/index
 
 .. toctree::
