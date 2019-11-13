@@ -18,7 +18,8 @@
 
 二次项形式
 
+.. _hessian:
 
-海森矩阵
+海森矩阵 Hessian Matrix
 ----
 
