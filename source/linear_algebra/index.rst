@@ -31,7 +31,6 @@
 	eigens
 	symmetrics
 	decomposition
-	summary
 
 Reference
 	.. [#ila] TODO: a link to amazon page

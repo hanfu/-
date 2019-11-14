@@ -2,18 +2,13 @@
 深度学习  Deep Learning
 ***********************
 
-多层网络
+略有涉足
 
-学习原理
+.. toctree::
+	:numbered:
 
-实践
-
-卷积网络
-
-循环网络
-
-自编码机
-
-迁移学习
-
-Tenserflow框架
+	neural_networks
+	cv_cnn
+	nlp_rnn
+	transfer_learning
+	tensorflow

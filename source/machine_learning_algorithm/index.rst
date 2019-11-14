@@ -2,20 +2,12 @@
 机器学习算法  Machine Learning Algorithm
 **********************************
 
-优化技巧
+.. toctree::
+	:numbered:
 
-正则化
-
-线性回归
-
-逻辑回归
-
-树模型
-
-支持向量机
-
-knn
-
-贝叶斯网
-
-降维
+	linear_models
+	tree_models
+	ensemblings
+	bayesian_model
+	clustering
+	dimension_reduction

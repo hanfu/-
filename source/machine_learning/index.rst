@@ -2,30 +2,17 @@
 机器学习  Machine Learning
 **********************
 
-定义机器学习
+机器学习如何解决我们的问题? 我们如何完成机器学习的流程? 
 
-机器学习的框架
+算法固然重要, 更重要的是使用算法的正确操作.
 
-机器学习的流程
+.. toctree::
+	:numbered:
 
-获取数据
+	frame
+	optimization
+	problem_statement
+	data_preparation
+	model_training
+	dev_op
 
-EDA
-
-预处理
-
-特征工程
-
-选择算法
-
-模型训练
-
-模型评估
-
-模型调参
-
-模型后期处理
-
-结果展示
-
-工程技巧

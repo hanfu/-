@@ -2,12 +2,12 @@
 优化方法  Optimization
 **********************
 
-导数与梯度
+当你讲到人工智能, 我想到的是目标函数和优化方法.
 
-牛顿法
 
-随机梯度
+.. toctree::
+	:numbered:
 
-似然
-
-马尔科夫
+	convex_optimization
+	gradient
+	likelihood
