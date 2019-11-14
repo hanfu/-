@@ -65,7 +65,7 @@
    probability/index
    
 .. toctree::
-   :caption: |最优化|
+   :caption: |优化理论|
    
    optimization/index
 
@@ -76,8 +76,18 @@
    
 .. toctree::
    :caption: |机器学习|
-   
+
    machine_learning/index
+
+.. toctree::
+   :caption: |机器学习算法|
+
+   machine_learning_algorithm/index
+
+.. toctree::
+   :caption: |深度学习|
+
+   deep_learning/index
 
 .. toctree::
    :caption: |关于本站|
