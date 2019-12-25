@@ -33,7 +33,7 @@ release = '0.01'
 extensions = [
 'sphinx.ext.mathjax',
 'sphinx.ext.autosectionlabel',
-'sphinx_sitemap'
+'sphinx_sitemap',
 ]
 
 # autosectionlabel settings
