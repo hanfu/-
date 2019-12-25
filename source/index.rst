@@ -5,12 +5,14 @@
 ==============
 
 借祖传的古老与根本之意, 机器学习的祖传知识即为以下主题: 
-:doc:`微分<calculus/index>` |
+:doc:`微积分<calculus/index>` |
 :doc:`线性代数<linear_algebra/index>` |
 :doc:`概率论<probability/index>` |
-:doc:`最优化<optimization/index>` |
+:doc:`优化理论<optimization/index>` |
 :doc:`人工智能<artificial_intelligence/index>` |
-:doc:`机器学习<machine_learning/index>`
+:doc:`机器学习<machine_learning/index>` |
+:doc:`机器学习算法<machine_learning_algorithm/index>` |
+:doc:`深度学习<deep_learning/index>`
 
 没错, 我们在最后终于会接触到人工智能和机器学习,在我们准备万全之后.
 
