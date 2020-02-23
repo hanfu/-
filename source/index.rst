@@ -92,18 +92,13 @@
    deep_learning/index
 
 .. toctree::
+   :caption: |自然语言处理|
+
+   nlp/index
+
+.. toctree::
    :caption: |关于本站|
 
    about/vintageml
    about/author
    about/sphinx
-
-.. raw:: html
-
-   <script src="https://utteranc.es/client.js"
-           repo="hanfu/vintageml_zh"
-           issue-term="pathname"
-           theme="github-light"
-           crossorigin="anonymous"
-           async>
-   </script>
