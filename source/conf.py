@@ -18,7 +18,7 @@
 # -- Project information -----------------------------------------------------
 
 project = '祖传机器学习'
-copyright = '2019, 翰夫'
+copyright = '2020, 翰夫'
 author = '翰夫'
 
 # The full version, including alpha/beta/rc tags
@@ -34,7 +34,11 @@ extensions = [
 'sphinx.ext.mathjax',
 'sphinx.ext.autosectionlabel',
 # 'sphinx_sitemap',
+# 'sphinxcontrib.disqus',
 ]
+
+# disqus shortname
+disqus_shortname = 'vintageml'
 
 # autosectionlabel settings
 #https://stackoverflow.com/questions/15394347/adding-a-cross-reference-to-a-subheading-or-anchor-in-another-page
